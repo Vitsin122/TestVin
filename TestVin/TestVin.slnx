@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="PostgreDAL/PostgreDAL.csproj" Id="bdc1c17f-1aa4-45de-aec9-b5025b44004f" />
   <Project Path="Service/Service.csproj" Id="03c5d761-b219-423c-8c66-c75bf2e9ca41" />
 </Solution>
